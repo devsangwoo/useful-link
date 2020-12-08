@@ -1,5 +1,5 @@
 # Study-Link
-2019년도 목표!!  / TIL에 전부 기록할 수 있도록 노력하자!!
+
 
 ## JavaScript
 
